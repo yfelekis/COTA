@@ -1,1 +1,1 @@
-# Optimal-Transport-for-Causal-Abstractions
+# Causal-Optimal-Transport-of-Abstractions
